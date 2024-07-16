@@ -1,4 +1,4 @@
-# Stock Price Forecasting
+# Real-time Stock Price Prediction
 
 This project provides a real-time stock price prediction dashboard using Streamlit and the Prophet forecasting model. It fetches stock data from Yahoo Finance and generates future stock price forecasts.
 
