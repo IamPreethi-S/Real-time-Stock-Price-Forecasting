@@ -5,20 +5,22 @@ This project provides a real-time stock price prediction dashboard using Streaml
 
 ## Steps to Run
 
-1. **Set up the virtual environment**:
+1. **Clone the repository**:
+    git clone https://github.com/IamPreethi-S/Real-time-Stock-Price-Forecasting
 
-2. **Install dependencies**:
+2. **Set up the virtual environment**:
+
+3. **Install dependencies**:
     ```
     pip install -r requirements.txt
     ```
-3. **Generate forecasts**:
+4. **Generate forecasts**:
     python generate_forecasts.py
 
-4. **Evaluate forecasts**:
-
+5. **Evaluate forecasts**:
     python evaluate_forecasts.py
 
-5. **Run the model training script**:
+6. **Visualizes the Stock Price Prediction**:
     streamlit run app.py
 
 
