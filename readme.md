@@ -1,6 +1,7 @@
 # Stock Price Forecasting
 
-This project uses the Prophet model to forecast stock prices. The project includes steps for data preparation, model training, cross-validation, generating forecasts, evaluating forcasts and predicting them using streamlit app.
+This project provides a real-time stock price prediction dashboard using Streamlit and the Prophet forecasting model. It fetches stock data from Yahoo Finance and generates future stock price forecasts.
+
 
 ## Steps to Run
 
@@ -20,3 +21,10 @@ This project uses the Prophet model to forecast stock prices. The project includ
 5. **Run the model training script**:
     streamlit run app.py
 
+
+## Features
+
+- **Real-time Stock Price Prediction**: Input stock tickers and date ranges to fetch historical data and generate forecasts.
+- **Interactive Dashboard**: Visualize historical data, forecast data, and model components using Streamlit.
+- **Data Fetching**: Integrates with Yahoo Finance to fetch up-to-date stock data.
+- **Model Training and Evaluation**: Uses Prophet for time series forecasting and provides metrics such as RMSE, MAE, and MAPE.
