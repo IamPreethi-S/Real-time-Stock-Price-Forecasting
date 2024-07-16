@@ -1,0 +1,17 @@
+pandas
+numpy==1.21.0
+scikit-learn
+prophet==1.1
+yfinance
+plotly
+dash
+snowflake-connector-python
+boto3
+awscli
+flask
+joblib
+holidays==0.11.1
+flask
+prophet
+pandas
+gunicorn
