@@ -38,7 +38,7 @@ Images:
 ![image](https://github.com/user-attachments/assets/d5281acf-2346-4b8b-aafb-2244aa7e3592)
 ![image](https://github.com/user-attachments/assets/f8ccbb79-ade4-4519-92c8-57cba48acdbc)
 
-Comparison of Models for Stock Price Prediction:
+## Comparison of Models for Stock Price Prediction:
 
 ![image](https://github.com/user-attachments/assets/a54b1745-f5cb-4739-be91-51197030a9a2)
 
